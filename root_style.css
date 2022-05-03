@@ -1,0 +1,10 @@
+:root {
+  --color-green: rgb(54, 193, 54);
+  --color-red: rgb(255, 0, 0);
+  --color-purple: rgb(128, 0, 128);
+  --color-yellow: rgb(255, 255, 0);
+  --spacing: 4px;
+  --font-size: 16px;
+  --border-radius: 12px;
+  --bg: rgb(231, 231, 255); 
+}

@@ -1,0 +1,18 @@
+@import url('./style.css');
+
+.card-content-info {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-field {
+  display: flex;
+  flex-direction: column;
+  padding: 16px;
+  width: auto;
+  row-gap: 8px;
+}
+
+.content-info {
+  margin-top: 50px;
+}
